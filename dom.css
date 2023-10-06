@@ -1,0 +1,57 @@
+body{
+    background-image: url("back\ img.jpeg");
+}
+
+ .submit-div{
+   
+    
+    border-radius: 10px;
+    padding:30px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+#mnb{
+    color: #b7dc22;
+}
+.int{
+    
+    background-image: url(rm422-073.jpg);
+    background-color: rgb(41, 220, 220);
+    width: 310px;
+    margin: 40px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    box-shadow:5px 5px 5px 5px #352222
+    
+    
+}
+.msg-input{
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.eml-input{
+    width: 200px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.pss-input{
+    width: 250px;
+    height: 80px;
+    border: 1px solid green;
+    border-radius: 5px;
+} 
+ #button{
+    background-color:rgb(171, 151, 203);
+    font: bold;
+    margin: 30px;
+    border: 1px solid cornsilk;
+    border-radius: 4px;
+    width: 70px;
+}

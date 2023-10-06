@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #4e42b2;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Navbar links */
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 10px;
+}
+/* pf */
+.pf{
+    width: 60px;
+}
+/* Style the login button */
+.login-button {
+    
+    color: white;
+    border: none;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.bbb{content: '\02192';
+    margin-left: 10px;
+
+}
